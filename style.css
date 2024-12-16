@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 10%;
+    padding-left: 790px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: brown;
+}
+
+a:active{
+    text-decoration: none;
+    color: black;
+}
+
+video{
+    padding-left: 900px;
+    align-self: center;
+}
+
+body{
+    background-image: url(perfection-the-pinnacle-of-man-and-roblox-v0-vpl68956ytlb1.webp);
+}
+
